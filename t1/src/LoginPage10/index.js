@@ -22,7 +22,7 @@ function LoginPage10() {
           </div>
           <div className="col-md-7 second-part d-flex flex-column align-items-end">
             <div className="text-part d-flex flex-column">
-              <h1>SIGN IN TO SHEY</h1>
+              <h1>SIGN IN Task2</h1>
           
               <div className="d-flex justify-content-center my-2">
               <div className="loginButton google" onClick={google}>
